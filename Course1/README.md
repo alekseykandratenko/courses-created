@@ -1,6 +1,6 @@
 # Heart Disease Prediction Model
 
-This project implements a machine learning model to predict heart disease using patient health data. It includes both the model training code and a Flask API for making predictions.
+This project implements a machine learning model to predict heart disease using patient health data. It includes both the model training code and a Flask API for making predictions. It's for educational porpoise only, this course is developed to show the basic lvl usage of such tools as: pandas, numpy, matplotlib, seaborn, sklearn, lazypredict, optuna, shap, Flask and langchain.
 
 ## Project Structure
 ├── data/  
