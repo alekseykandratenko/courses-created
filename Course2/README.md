@@ -60,4 +60,5 @@ The course is structured using Jupyter Notebooks (.ipynb files) that combine:
 5. Building a foundation for advanced Python programming
 
 ## Note
-This course is designed for beginners and provides a structured approach to learning Python programming from the ground up.
+This course is designed for beginners and provides a structured approach to learning Python programming from the ground up.  
+Course is wrote in spanish language.
